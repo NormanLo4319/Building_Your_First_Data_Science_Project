@@ -71,11 +71,4 @@ Citation: [Moro et al., 2014] S. Moro, P. Cortez and P. Rita. A Data-Driven Appr
 UCI Machine Learning Repository Citation:
 Dua, D. and Graff, C. (2019). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
 
-Please note, this project may automatically load third party code from external 
-repositories (for example, NPM modules, Composer packages, or other dependencies). 
-If so, such third party code may be subject to other license terms than as set 
-forth above. In addition, such third party code may also depend on and load 
-multiple tiers of dependencies. Please review the applicable licenses of the 
-additional dependencies.
-
 Copyright © 2021 Norman Lo
