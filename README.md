@@ -1,11 +1,6 @@
 # First Data Science Project
 This repository guide new data scientists to build their first data science project and setting up CI/CD pipeline so that it can keep the model and application continuously updated as business needs evolve.
 
-## Building a Data Science Project:
-1. Has a definite start and end 
-2. Deliver something of tangilbe value
-3. Deliver something unique for project stakeholders
-
 ## Differences Between Software Engineer and Data Scientist:
 It's often the case that people are confused about the different between software engineers and data scientists. There are many overlapping tools and technologies, so we want to clarify the different between the two here. 
 
